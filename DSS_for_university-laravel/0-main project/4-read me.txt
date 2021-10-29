@@ -1,0 +1,4 @@
+این پروژه پیاده سازی شده با
+laravel framework (admin LTE dashboard- consoleTV chart- uxweb/sweet-alert)
+mysql DB 
+  
